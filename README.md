@@ -1,4 +1,5 @@
-# Titulo modificado x2
+
+# Titulo pós exercicio 6
 Nome: Tadeu Brasil De Souza
 Curso: Ciência da Computação
 Disciplina: INF01087
